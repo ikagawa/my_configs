@@ -1,0 +1,23 @@
+% Navigation
+setkey down "j"
+setkey up "k"
+setkey page_down "f"
+setkey page_up "b"
+setkey page_left "h"
+setkey page_right "l"
+
+% Go to
+setkey goto_line "G"
+setkey goto_line "gg"
+setkey bob "gg"    % beginning of file
+setkey eob "G"     % end of file
+
+% Search
+setkey search_forward "/"
+setkey search_backward "?"
+setkey find_next "n"
+%setkey find_previous "N"
+
+% Other
+%setkey quit "q"
+%setkey help "?"
